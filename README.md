@@ -13,7 +13,7 @@ Our infrastructure is designed to eliminate 120+ hours of custom architectural m
 ## Enterprise Licensing & Access
 NaviGuard is a premium B2B asset pack. Access to the full validation engine, implementation schemas, and deployment documentation is available to licensed operators.
 
-**[Deploy Infrastructure Engine — Download Asset Pack](YOUR_LEMON_SQUEEZY_CHECKOUT_URL)**
+**[Deploy Infrastructure Engine — Download Asset Pack](naviguard-io.lemonsqueezy.com)**
 
 ---
 *For fleet-wide enterprise deployments or custom integration support, please contact licensing@naviguard.io.*
