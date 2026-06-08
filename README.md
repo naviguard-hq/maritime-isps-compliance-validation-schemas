@@ -17,3 +17,9 @@ NaviGuard is a premium B2B asset pack. Access to the full validation engine, imp
 
 ---
 *For fleet-wide enterprise deployments or custom integration support, please contact licensing@naviguard.io.*
+
+---
+### Licensing & Intellectual Property
+All source code, schemas, and documentation contained in this repository are **Proprietary Intellectual Property**. Unauthorized reproduction, distribution, or commercial use is strictly prohibited. 
+
+© 2026 NaviGuard HQ. All rights reserved.
