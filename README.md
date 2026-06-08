@@ -15,10 +15,10 @@ NaviGuard is a premium B2B asset pack. Access to the full validation engine, imp
 
 Current introductory pricing for NaviGuard Professional licenses is valid until July 1st, 2026. Starting July 1st, pricing for both the Single Operator and Enterprise Fleet licenses will be adjusted to reflect our expanded feature set and roadmap. Lock in the current rate by securing your license today.
 
-**[Deploy Infrastructure Engine — Download Asset Pack](naviguard-io.lemonsqueezy.com)**
+naviguard-io.lemonsqueezy.com
 
 ---
-*For fleet-wide enterprise deployments or custom integration support, please contact licensing@naviguard.io.*
+*For fleet-wide enterprise deployments or custom integration support, please contact naviguard.hq@outlook.com.*
 
 ---
 ### Licensing & Intellectual Property
@@ -28,6 +28,7 @@ All source code, schemas, and documentation contained in this repository are **P
 
 ### Technical Support & Integration
 Have technical questions before deploying or need a custom implementation guide? 
-**[Click here to email our support team](naviguard-hq@outlook.com)** and we’ll get back to you within 24 hours.
+naviguard.hq@outlook.com 
+We’ll get back to you within 24 hours.
 
 © 2026 NaviGuard. All rights reserved.
