@@ -1,0 +1,6 @@
+{
+  "vessel_imo": "IMO1234567",
+  "security_level": 1,
+  "identity_verified": true,
+  "note": "This is a basic schema preview. Full enterprise schemas with additionalProperties: false and 30+ validation constraints are available in the licensed asset pack."
+}
