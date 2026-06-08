@@ -26,7 +26,7 @@ All source code, schemas, and documentation contained in this repository are **P
 
 ---
 
-### Technical Support & Integration
+### 📧 Technical Support & Integration:
 Have technical questions before deploying or need a custom implementation guide? 
 naviguard.hq@outlook.com 
 We’ll get back to you within 24 hours.
