@@ -24,4 +24,10 @@ Current introductory pricing for NaviGuard Professional licenses is valid until 
 ### Licensing & Intellectual Property
 All source code, schemas, and documentation contained in this repository are **Proprietary Intellectual Property**. Unauthorized reproduction, distribution, or commercial use is strictly prohibited. 
 
-© 2026 NaviGuard HQ. All rights reserved.
+---
+
+### Technical Support & Integration
+Have technical questions before deploying or need a custom implementation guide? 
+**[Click here to email our support team](naviguard-hq@outlook.com)** and we’ll get back to you within 24 hours.
+
+© 2026 NaviGuard. All rights reserved.
