@@ -13,6 +13,8 @@ Our infrastructure is designed to eliminate 120+ hours of custom architectural m
 ## Enterprise Licensing & Access
 NaviGuard is a premium B2B asset pack. Access to the full validation engine, implementation schemas, and deployment documentation is available to licensed operators.
 
+Current introductory pricing for NaviGuard Professional licenses is valid until July 1st, 2026. Starting July 1st, pricing for both the Single Operator and Enterprise Fleet licenses will be adjusted to reflect our expanded feature set and roadmap. Lock in the current rate by securing your license today.
+
 **[Deploy Infrastructure Engine — Download Asset Pack](naviguard-io.lemonsqueezy.com)**
 
 ---
